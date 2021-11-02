@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Combo\Combo\bin\Debug\Combo.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Combo\Combo\bin\Debug\Combo.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Combo\Combo\bin\Debug\Combo.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Combo\Combo\obj\Debug\Combo.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Combo\Combo\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Combo\Combo\obj\Debug\App.g.cs
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Combo\Combo\obj\Debug\Combo_MarkupCompile.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Combo\Combo\obj\Debug\Combo_MarkupCompile.lref
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Combo\Combo\obj\Debug\MainWindow.baml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Combo\Combo\obj\Debug\Combo.g.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Combo\Combo\obj\Debug\Combo.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Combo\Combo\obj\Debug\Combo.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Combo\Combo\obj\Debug\Combo.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Combo\Combo\obj\Debug\Combo.pdb
